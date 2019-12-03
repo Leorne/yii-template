@@ -1,8 +1,7 @@
-# yii-template
 Yii2 project template
 
 
-#My nginx configuration
+## My nginx configuration
 ```php
   server {
 
